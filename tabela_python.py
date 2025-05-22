@@ -44,3 +44,5 @@ if listaNotas:
     print("=====================")
 else:
     print("\nNenhuma nota foi adicionada.")
+
+input('\nPrecione Enter para fechar a janela...')
